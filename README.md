@@ -4,7 +4,7 @@
 
 ## 使用
 
-打开 `dist/MoyuReader.app`，点击「导入 TXT」选择小说。可将应用拖入「应用程序」文件夹。
+下载【MoyuReader安装包】打开 `dist/MoyuReader.app`，点击「导入 TXT」选择小说。可将应用拖入「应用程序」文件夹。
 
 下载压缩包中，应用直接位于 `MoyuReader/MoyuReader.app`，源码与构建脚本位于 `MoyuReader/Source/`。
 
